@@ -7,7 +7,7 @@ This project is a Telegram bot that utilizes AI capabilities to interact with us
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BigAddict/TelegramAIBot
 cd TelegramAIBot
 pip install -r requirements.txt
 ```
